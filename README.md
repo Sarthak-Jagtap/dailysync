@@ -1,0 +1,2 @@
+# dailysync
+Flutter SuperX project
